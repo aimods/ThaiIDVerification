@@ -17,7 +17,7 @@ kwargs['transport'] = HTTPSTransport(sslContext)
 url = 'https://rdws.rd.go.th/serviceRD3/checktinpinservice.asmx?wsdl'
 client = suds.client.Client(url, **kwargs)
 
-results = client.service.ServiceTIN('anonymous','anonymous','5709990004522')
+results = client.service.ServiceTIN('anonymous','anonymous','<<<ID>>>>')
 
 if results.vIsExist:
     print "OKAY"
