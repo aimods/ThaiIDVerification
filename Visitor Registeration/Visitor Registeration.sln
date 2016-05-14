@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ThaiIDCardtoWeb", "ThaiIDCardtoWeb\ThaiIDCardtoWeb.vbproj", "{50E99F5A-3F70-4CFC-934F-882876C8AC81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiNationalIDCard", "..\..\..\ThaiNationalIDCard-master\ThaiNationalIDCard\ThaiNationalIDCard.csproj", "{437C37AD-D733-46EC-8348-69B75F64B62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E99F5A-3F70-4CFC-934F-882876C8AC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E99F5A-3F70-4CFC-934F-882876C8AC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E99F5A-3F70-4CFC-934F-882876C8AC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E99F5A-3F70-4CFC-934F-882876C8AC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437C37AD-D733-46EC-8348-69B75F64B62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437C37AD-D733-46EC-8348-69B75F64B62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437C37AD-D733-46EC-8348-69B75F64B62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437C37AD-D733-46EC-8348-69B75F64B62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

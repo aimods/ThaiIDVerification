@@ -3,9 +3,9 @@ verification method for Thai ID
 
 # Done 
 - Python
+- .NET (VB)
 
 # WIP
-- .NET
 - PHP
 
 # License 
